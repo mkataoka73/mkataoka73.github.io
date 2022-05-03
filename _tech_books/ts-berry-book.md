@@ -1,6 +1,6 @@
 ---
-title: 手を動かしながら学ぶTypeScript
-image: /assets/images/hr-typescript.jpeg
+title: プロを目指す人のためのTypeScript入門
+image: /assets/images/ts-berry-book.jpeg
 layout: default
 ---
 
