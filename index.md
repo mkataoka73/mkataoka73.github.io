@@ -3,10 +3,11 @@ layout: default
 title: "Index"
 ---
 
-## 技術書の書評を書くブログ
+## 日記を書くだけのサイト
 {:.thin}
 
-### List
+### Posts
 
-- 手を動かして学ぶTypeScript
-- [プロを目指す人のためのTypeScript入門]()
+{% for post in site.posts %}
+  [{{ post.title }}]({{ post.url }})
+{% endfor %}
