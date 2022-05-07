@@ -4,3 +4,6 @@ title: "Index"
 ---
 
 ## English Blog
+
+hoge
+あいう
