@@ -5,5 +5,6 @@ title: "Index"
 
 ## English Blog
 
-hoge
-あいう
+{% for post in site.posts %}
+  [{{ post.title }}]({{ post.url }}){:target="_blank"}
+{% endfor %}

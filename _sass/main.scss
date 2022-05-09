@@ -1,9 +1,28 @@
-$backgroundColor: #ffffff;
-$bodyColor: #000000;
-$bodyFont: "Noto Sans JP",-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+$backgroundColor: #fff;
+$bodyColor: #111;
+$bodyFont: 'Zen Kaku Gothic New',"Noto Sans JP",-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
 
 body {
   background: $backgroundColor;
   color: $bodyColor;
   font-family: $bodyFont;
+  font-weight: 300;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 700px;
+}
+
+.question {
+  font-weight: 300;
+  font-size: 2.2rem;
+}
+
+.bold {
+  font-weight: 600;
+}
+
+.section-header {
+  font-size: 1.35rem;
 }
