@@ -8,6 +8,15 @@ body {
   color: $bodyColor;
   font-family: $bodyFont;
   font-weight: 300;
+
+  a {
+    color: inherit;
+  }
+  max-width: 600px;
+  margin: auto;
+  border-left: dotted 2px #aaa;
+  border-right: dotted 2px #aaa;
+  padding: 20px;
 }
 
 .thin {

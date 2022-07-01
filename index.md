@@ -3,8 +3,7 @@ layout: default
 title: "Index"
 ---
 
-## 日記を書くだけのサイト
-{:.thin}
+## mkataoka73.github.io
 
 ### Posts
 
