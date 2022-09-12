@@ -22,11 +22,19 @@ body {
 img {
   width: 90%;
   display: block;
-  margin: 30px auto;
+  margin: 35px auto 20px;
   padding: 10px;
   border: 1px solid #ccc;
   box-shadow: 5px 5px 5px #aaa;
   opacity: 0.9;
+}
+
+.caption {
+  display: block;
+  margin: auto;
+  text-align: center;
+  font-size: 0.9em;
+  color: #888;
 }
 
 .thin {
