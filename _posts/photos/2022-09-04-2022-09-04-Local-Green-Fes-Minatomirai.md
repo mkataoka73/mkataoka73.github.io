@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 2022 Local Green Festival
+image: photos/green_fes/logo.jpg
 ---
 
 ![title](/assets/images/photos/green_fes/title.jpg)
