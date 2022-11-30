@@ -1,7 +1,7 @@
 ---
 layout: post
-image: photos/2022-kansai-trip/kyoto-tower.jpg
-title: 2022 Kansai Trip
+image: photos/2022-kansai-trip/shinsaibashi.jpg
+title: Osaka Kyoto Trip
 ---
 
 ![Shinsaibashi](/assets/images/photos/2022-kansai-trip/shinsaibashi.jpg)
