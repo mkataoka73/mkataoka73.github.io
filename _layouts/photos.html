@@ -1,0 +1,35 @@
+---
+layout: post
+---
+
+{{ content }}
+
+<div id="modals"></div>
+
+<script>
+
+  {% capture test %}test string{% endcapture %}
+
+
+  let imgs = document.getElementsByClassName('picture');
+  let root = document.getElementById('modals');
+  Array.from(imgs).forEach((img, i) => {
+    img.onclick = function() {
+      let newDiv = document.createElement('div');
+      let newImg = document.createElement('img');
+      let src = this.src;
+      root.appendChild(newDiv);
+      newDiv.appendChild(newImg);
+      newImg.src = src;
+    }
+  });
+
+  Array.from(document.images).forEach((item, i) => {
+    console.log(item);
+  });
+
+
+  function showModal() {
+
+  }
+</script>
