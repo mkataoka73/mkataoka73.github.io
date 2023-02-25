@@ -3,5 +3,5 @@ baseurl: "" # the subpath of your site, e.g. /blog
 title: "" # the name of your site, e.g. ACME Corp.
 
 collections:
-  tech_books:
+  photos:
     output: true

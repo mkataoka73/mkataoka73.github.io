@@ -7,3 +7,15 @@ layout: default
 <div class="post-body">
   {{ content }}
 </div>
+
+<div class="footer-nav">
+  {% if page.previous %}
+    <a href="{{ site.url }}{{ page.previous.url }}">previous</a>
+  {% endif %}
+  
+  <a href="{{ site.url }}">home</a>
+  
+  {% if page.next %}
+    <a href="{{ site.url }}{{ page.next.url }}">next</a>
+  {% endif %}
+</div>
