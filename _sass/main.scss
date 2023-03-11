@@ -37,6 +37,21 @@ img {
   color: #888;
 }
 
+.code {
+  width: 95%;
+  background-color: #eee;
+  border: 1px solid #888;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin: 10px 0;
+  padding: 5px 10px;
+
+  code {
+    font-size: 80%;
+    font-family: "Fira Code", sans-serif;
+  }
+}
+
 .thin {
   font-weight: 100;
 }
