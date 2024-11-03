@@ -17,6 +17,6 @@ Things I like, or my _Oshi_-s. Genre-mixed.
 - [Ashitsubo Yutaka](https://www.youtube.com/@YutakaREFLEX) - An ASMR Youtuber who does foot massage
 - [Mumumu Curry](https://muybien-yokohama.com/mumumu/) - A curry restaurant
 - [Michael Hartl](https://www.michaelhartl.com/) - A programming educator & entrepreneur
-- [Brooklyn Roasting Company](http://brooklynroasting.jp/) - A coffee roasting company originated in Osaka
+- [Brooklyn Roasting Company](http://brooklynroasting.jp/) - A coffee roasting company based in Osaka
 - [Mile End](https://www.youtube.com/watch?v=u8YtZkYs55w) - An introspective guitar solo album by [Ariel Posen](https://www.arielposen.com/)
 - [Matt Carmichael](https://www.mattcarmichaelmusic.com/) - A jazz saxophonist
