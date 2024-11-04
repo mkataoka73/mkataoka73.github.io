@@ -20,3 +20,4 @@ Things I like, or my [_Oshi_](https://ja.wiktionary.org/wiki/%E3%81%8A%E3%81%97#
 - [Brooklyn Roasting Company](http://brooklynroasting.jp/) - A coffee roasting company based in Osaka
 - [Mile End](https://www.youtube.com/watch?v=u8YtZkYs55w) - An introspective guitar solo album by [Ariel Posen](https://www.arielposen.com/)
 - [Matt Carmichael](https://www.mattcarmichaelmusic.com/) - A jazz saxophonist
+- [rebuild.fm](https://rebuild.fm/) - a podcast mainly about tech
