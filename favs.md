@@ -4,7 +4,7 @@ title: "My Favorites"
 ---
 
 ### Favs
-Things I like, or my [_Oshi_](https://ja.wiktionary.org/wiki/%E3%81%8A%E3%81%97#%E5%90%8D%E8%A9%9E%EF%BC%9A%E6%8E%A8%E3%81%97)-s. Genre-mixed.
+Things I like, or my [_Oshi_](https://ja.wiktionary.org/wiki/%E3%81%8A%E3%81%97#%E5%90%8D%E8%A9%9E%EF%BC%9A%E6%8E%A8%E3%81%97)-s. Genre-mixed. [More here](/favs-by-genre).
 
 - [Dew Forest](https://online.actus-interior.com/item/2099282/) - a room fregrance series
 - [Allbirds](https://www.allbirds.com/)' shoes
