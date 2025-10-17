@@ -1,0 +1,169 @@
+$backgroundColor: #ffffff;
+$bodyColor: #000000;
+$bodyFont: "Noto Sans JP",-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+$bodyFontWeight: 100;
+
+body {
+  background: $backgroundColor;
+  color: $bodyColor;
+  font-family: $bodyFont;
+  font-weight: 300;
+
+  a {
+    color: inherit;
+  }
+
+  li {
+    margin: 3px 0;
+  }
+
+  p {
+    font-size: 95%;
+  }
+  max-width: 600px;
+  margin: auto;
+  border-left: dotted 2px #aaa;
+  border-right: dotted 2px #aaa;
+  padding: 20px;
+}
+
+ h2 {
+  margin-top: 40px;
+  padding-bottom: 7px;
+  border-bottom: #aaa 1px solid;
+ }
+
+img {
+  width: 90%;
+  display: block;
+  margin: 35px auto 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  box-shadow: 5px 5px 5px #aaa;
+  opacity: 0.9;
+
+  &.img-small {
+    width: 75%;
+  }
+
+  &.no-cadre {
+    border: none;
+    box-shadow: none;
+    padding: 0;
+  }
+}
+
+.post-body {
+  h2 {
+      font-weight: 400;
+      border-bottom: none;
+  }
+}
+
+.caption {
+  display: block;
+  margin: auto;
+  text-align: center;
+  font-size: 0.9em;
+  color: #888;
+}
+
+.code {
+  width: 95%;
+  background-color: #eee;
+  border: 1px solid #888;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin: 10px 0;
+  padding: 5px 10px;
+
+  code {
+    font-size: 80%;
+    font-family: "Fira Code", sans-serif;
+  }
+}
+
+.thin {
+  font-weight: 100;
+}
+
+.title {
+  font-size: 2rem;
+}
+
+.book-cover {
+  width: 300px;
+}
+
+.navs {
+  display: inline-block;
+  margin-left: 20px;
+}
+
+
+// Modal
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.3); /* Black w/ opacity */
+}
+
+/* Modal Content (Image) */
+.modal-content {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+}
+
+/* Add Animation - Zoom in the Modal */
+.modal-content, #caption {
+    -webkit-animation-name: zoom;
+    -webkit-animation-duration: 0.6s;
+    animation-name: zoom;
+    animation-duration: 0.6s;
+}
+
+@-webkit-keyframes zoom {
+    from {-webkit-transform:scale(0)}
+    to {-webkit-transform:scale(1)}
+}
+
+@keyframes zoom {
+    from {transform:scale(0)}
+    to {transform:scale(1)}
+}
+
+/* The Close Button */
+.close {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.close:hover,
+.close:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/* 100% Image Width on Smaller Screens */
+@media only screen and (max-width: 100px){
+    .modal-content {
+        width: 100%;
+    }
+}
