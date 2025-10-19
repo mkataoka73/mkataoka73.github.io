@@ -11,7 +11,7 @@ Things I like, or my [_Oshi_](https://ja.wiktionary.org/wiki/%E3%81%8A%E3%81%97#
 - [Timothy Morton](https://en.wikipedia.org/wiki/Timothy_Morton)'s books
 - [rotary](https://www.instagram.com/rotary_bar/) - A music bar featuring mezcals
 - [LISTEN](https://www.instagram.com/listen_yokohama/) - A music bar
-- [asmr yebin](https://www.youtube.com/@yebinne_e) - An ASMR Youtuber
+- [asmr yebin](https://www.youtube.com/channel/UCH56jIlMazhSUATY8p-8onQ) - An ASMR Youtuber
 - [deadlyyucca](https://deadlyyucca.com/) - A gamedev/pixel artist
 - [Salamanda](https://www.youtube.com/watch?v=FV3dXuDA-VQ) - A Korean electrolic music duo
 - [Ashitsubo Yutaka](https://www.youtube.com/@YutakaREFLEX) - An ASMR Youtuber who does foot massage
