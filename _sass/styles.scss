@@ -56,7 +56,7 @@ img {
 .post-body {
   h2 {
       font-weight: 400;
-      border-bottom: none;
+      border-bottom: 1px dotted #ccc;
   }
 }
 
@@ -81,6 +81,12 @@ img {
     font-size: 80%;
     font-family: "Fira Code", sans-serif;
   }
+}
+
+.soft-separator {
+  text-align: center;
+  // margin-bottom: 4rem;
+  margin-top: 3.5rem;
 }
 
 .thin {
