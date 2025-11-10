@@ -1,6 +1,6 @@
 ---
 layout: post
-title: autumn-holiday
+title: 2025秋 那須滞在記
 date: 2025-11-09 11:40 +0900
 image: "photos/posts/nakaji-2.jpg"
 ---
