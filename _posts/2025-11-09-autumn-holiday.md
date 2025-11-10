@@ -2,6 +2,7 @@
 layout: post
 title: autumn-holiday
 date: 2025-11-09 11:40 +0900
+image: "photos/posts/nakaji-2.jpg"
 ---
 10/28～11/2まで秋休みだった。普段あまり帰らないけど、今年は両親の住んでいる那須の家にあそびにいった。その間の旅行記。
 
