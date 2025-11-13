@@ -5,7 +5,6 @@ title: "Index"
 
 ## mkataoka73.github.io
 
-<!-- [格ゲー日記](https://mkataoka73.github.io/fg){:target="_blank"} -->
 [Photos](/photos){:.navs}
 [Favs](/favs){:.navs}
 
