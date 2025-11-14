@@ -18,6 +18,7 @@ Music spots around Yokohama area. Enjoy music with some alcohol.
 - [N103](https://www.instagram.com/n103yokohama/) - agave bar, master being a DJ
 - [Soul On](https://www.instagram.com/bar_soulon_yokohama/) - Soul bar
 - [45 Yokohama](https://www.instagram.com/recordbar45yokohama/) - good music
+- [LIBUSHI Bashamichi](http://libushi.com/bashamichi/) - craft beer brewery & pub
 
 ### Tokyo
 
