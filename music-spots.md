@@ -2,6 +2,7 @@
 layout: post
 title: music spots
 image: photos/listening-bars/listen-3.jpg
+large_image: true
 ---
 
 ![LISTEN, a music bar](assets/images/photos/listening-bars/listen-3.jpg){:.no-cadre}
