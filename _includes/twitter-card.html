@@ -1,5 +1,10 @@
-<meta name="twitter:card" content="summary" />
-<meta name="twitter:site" content="@mkataoka73" />
+{% if page.large_image %}
+  <meta name="twitter:card" content="summary_large_image" />
+{% else %}
+  <meta name="twitter:card" content="summary" />
+{% endif %}
+
+  <meta name="twitter:site" content="@jlmercury" />
 
 {% if page.title %}
   <meta name="twitter:title" content="{{ page.title }}" />
