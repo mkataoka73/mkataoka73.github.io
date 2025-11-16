@@ -1,7 +1,9 @@
 ---
 layout: post
 title: 呑み場
+image: photos/mutchan.jpg
 ---
+![Mutchan Yakitori](/assets/images/photos/mutchan.jpg){:.no-cadre}
 
 Good places to drink alone. Mainly Noge. Have some food with good drink. [Music bars](/music-spots) also recommended.
 
