@@ -1,12 +1,12 @@
 ---
 layout: post
 title: 呑み場
-image: photos/mutchan.jpg
+image: photos/suehiro.jpg
 large_image: true
 ---
-![Mutchan Yakitori](/assets/images/photos/mutchan.jpg){:.no-cadre}
+![Suehiro](/assets/images/photos/suehiro.jpg){:.no-cadre}
 
-Good places to drink alone. Mainly Noge. Have some food with good drink. [Music bars](/music-spots) also recommended.
+呑み屋の記録と思い出。[Music spots](/music-spots)もご覧ください🍃
 
 ### Izakaya / Bistro
 
