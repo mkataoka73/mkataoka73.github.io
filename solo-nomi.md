@@ -2,6 +2,7 @@
 layout: post
 title: 呑み場
 image: photos/mutchan.jpg
+large_image: true
 ---
 ![Mutchan Yakitori](/assets/images/photos/mutchan.jpg){:.no-cadre}
 
