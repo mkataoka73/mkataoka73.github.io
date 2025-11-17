@@ -6,7 +6,7 @@ large_image: true
 ---
 ![Suehiro](/assets/images/photos/suehiro.jpg){:.no-cadre}
 
-呑み屋の記録と思い出。[Music spots](/music-spots)もご覧ください🍃
+呑み屋の記録と思い出。[Music spots](/music-spots)もご覧ください🌿
 
 ### Izakaya / Bistro
 
