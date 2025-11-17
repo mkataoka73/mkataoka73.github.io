@@ -10,7 +10,7 @@ large_image: true
 
 ### Izakaya / Bistro
 
-- [むっちゃん]() - Yakitori
+- [むっちゃん](taverns/mutchan) - Yakitori
 - [末広]() - a classic
 - [ぴ]() - Fish
 - [勝吉]() - Sushi
@@ -30,6 +30,7 @@ large_image: true
 - [Ducktails]() - Korean style
 - [平戸庵]() - tantan noodle
 - [荒波]() - sashimi
+- [Afro Tacos](taverns/afro_tacos)
 
 ### Craft beer
 

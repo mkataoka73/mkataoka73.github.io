@@ -5,3 +5,5 @@ title: "" # the name of your site, e.g. ACME Corp.
 collections:
   photos:
     output: true
+  taverns:
+    output: true
