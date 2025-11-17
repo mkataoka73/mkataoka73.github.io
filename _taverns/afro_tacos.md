@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Afro Tacos
+image: photos/afro_tacos.jpg
+large_image: true
 ---
 ![Afro Tacos](/assets/images/photos/afro_tacos.jpg){:.no-cadre .full}
 
