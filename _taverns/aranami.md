@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 荒波（Aranami）
-image: photos/aranami.jpg
+image: photos/aranami_entrance.jpg
 large_image: true
 ---
 
