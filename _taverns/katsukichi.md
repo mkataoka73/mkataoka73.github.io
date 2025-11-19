@@ -5,7 +5,7 @@ image: photos/katsukichi.jpg
 large_image: true
 ---
 
-![Katsukichi entrance](../assets/images/photos/katsukichui.jpg){:.no-cadre}
+![Katsukichi entrance](../assets/images/photos/katsukichi.jpg){:.no-cadre}
 
 Style: Standing sushi izakaya
 - [HP](https://katsukichi.jp/)
