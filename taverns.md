@@ -13,7 +13,7 @@ large_image: true
 - [むっちゃん](/taverns/mutchan) - Yakitori
 - [末広]() - a classic
 - [ぴ]() - Fish
-- [勝吉]() - Sushi
+- [勝吉](/taverns/katsukichi) - Sushi
 - [さんだーす]() - 半身揚げと焼売
 - [濱ヱ美寿]() - Takoyaki
 - [Muy bien]() - spice appetizer
