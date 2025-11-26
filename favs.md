@@ -26,4 +26,4 @@ Things I like, or my [_Oshi_](https://ja.wiktionary.org/wiki/%E3%81%8A%E3%81%97#
 
 - [My favorite listening bars](/listening-bars)
 - [music spots](/music-spots)
-- [taverns](/taverns)
+- [places](/places)
