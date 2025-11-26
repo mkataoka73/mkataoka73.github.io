@@ -10,10 +10,10 @@ large_image: true
 
 ### Izakaya / Bistro
 
-- [むっちゃん](/taverns/mutchan) - Yakitori
+- [むっちゃん](/places/mutchan) - Yakitori
 - [末広]() - a classic
 - [ぴ]() - Fish
-- [勝吉](/taverns/katsukichi) - Sushi
+- [勝吉](/places/katsukichi) - Sushi
 - [さんだーす]() - 半身揚げと焼売
 - [濱ヱ美寿]() - Takoyaki
 - [Muy bien]() - spice appetizer
@@ -29,8 +29,8 @@ large_image: true
 - [三年や]() - showa style sake izakaya
 - [Ducktails]() - Korean style
 - [平戸庵]() - tantan noodle
-- [荒波](/taverns/aranami) - sashimi
-- [Afro Tacos](/taverns/afro_tacos)
+- [荒波](/places/aranami) - sashimi
+- [Afro Tacos](/places/afro_tacos)
 
 ### Craft beer
 
