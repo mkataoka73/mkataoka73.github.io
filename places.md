@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 呑み場
+title: Places
 image: photos/suehiro.jpg
 large_image: true
 ---
 ![Suehiro](/assets/images/photos/suehiro.jpg){:.no-cadre}
 
-呑み屋の記録と思い出。[Music spots](/music-spots)もご覧ください🌿
+Places I've been。Music / Listening bars featured in [**Music spots**](/music-spots).🌿
 
 ### Izakaya / Bistro
 
@@ -31,6 +31,7 @@ large_image: true
 - [平戸庵]() - tantan noodle
 - [荒波](/places/aranami) - sashimi
 - [Afro Tacos](/places/afro_tacos)
+- [SIBLINGS](/places/siblings) - Craftbeer bar, myorenji
 
 ### Craft beer
 
