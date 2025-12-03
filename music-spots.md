@@ -1,9 +1,15 @@
 ---
 layout: post
 title: music spots
+image: photos/listening-bars/listen-3.jpg
+large_image: true
 ---
 
-Music spots around Yokohama area. Enjoy music with some alcohol.
+![LISTEN, a music bar](assets/images/photos/listening-bars/listen-3.jpg){:.no-cadre}
+
+Enjoy music with some alcohol or good coffee.
+
+### Yokohama
 
 - [百万遍](https://www.instagram.com/hyaku_man_ben/) - blues & soul bar
 - [LISTEN](https://www.instagram.com/listen_yokohama/) - SSW, black music, deep listening
@@ -30,6 +36,7 @@ Music spots around Yokohama area. Enjoy music with some alcohol.
 - [rompercicci](http://www.rompercicci.com/), Nakano - jazz kissa
 - [Slow Boat](https://www.slowboat.jp/), Yukigaya-Otsuka - jazz kissa
 - [Olympus!](https://www.instagram.com/jazzolympus/), Ochanomizu - Jazz & Curry
+- [DUG](http://www.dug.co.jp/) - Shinkuku, a jazz café in the basement.
 
 ### Other
 

@@ -52,6 +52,10 @@ img {
     box-shadow: none;
     padding: 0;
   }
+
+  &.full {
+    width: 100%;
+  }
 }
 
 .post-body {
