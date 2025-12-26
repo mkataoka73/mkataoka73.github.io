@@ -21,6 +21,9 @@ body {
     font-size: 95%;
     line-height: 1.8;
   }
+  blockquote {
+    padding: 10px 30px;
+  }
   max-width: 600px;
   margin: auto;
   border-left: dotted 2px #aaa;
@@ -66,6 +69,10 @@ img {
   h2 {
       font-weight: 400;
       border-bottom: 1px dotted #ccc;
+  }
+
+  .bg-gray {
+    background-color: #eee;
   }
 }
 
