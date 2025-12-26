@@ -74,6 +74,26 @@ img {
   .bg-gray {
     background-color: #eee;
   }
+
+  .index {
+    background-color: #eee;
+    font-size: 90%;
+    list-style:square;
+    padding: 30px 60px;
+
+    li {
+      margin: 5px;
+
+    }
+
+    a {
+        text-decoration: none;
+        color: #555;
+        &:hover {
+          color: #000;
+        }
+    }
+  }
 }
 
 .caption {
