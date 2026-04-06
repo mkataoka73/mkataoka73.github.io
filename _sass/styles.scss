@@ -21,6 +21,9 @@ body {
     font-size: 95%;
     line-height: 1.8;
   }
+  blockquote {
+    padding: 10px 30px;
+  }
   max-width: 600px;
   margin: auto;
   border-left: dotted 2px #aaa;
@@ -47,6 +50,10 @@ img {
     width: 75%;
   }
 
+  &.img-width-60 {
+    width: 60%;
+  }
+
   &.no-cadre {
     border: none;
     box-shadow: none;
@@ -62,6 +69,30 @@ img {
   h2 {
       font-weight: 400;
       border-bottom: 1px dotted #ccc;
+  }
+
+  .bg-gray {
+    background-color: #eee;
+  }
+
+  .index {
+    background-color: #eee;
+    font-size: 90%;
+    list-style:square;
+    padding: 30px 60px;
+
+    li {
+      margin: 5px;
+
+    }
+
+    a {
+        text-decoration: none;
+        color: #555;
+        &:hover {
+          color: #000;
+        }
+    }
   }
 }
 
