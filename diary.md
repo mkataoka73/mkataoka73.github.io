@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Photo diaries"
+title: "Diary"
 ---
 
-### Photo diaries
+### Diary
 
-{% for post in site.photos %}
+{% for post in site.posts %}
   [{{ post.title }}]({{ post.url }})
 {% endfor %}
