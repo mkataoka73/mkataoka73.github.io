@@ -37,7 +37,29 @@ front_matter = <<~FRONT_MATTER
   date: #{current_time.strftime('%Y-%m-%d %H:%M:%S %z')}
   ---
 
-FRONT_MATTER
+  #### ☀️ 今日のこと
+  - 天気：
+  - お出かけ：
+
+  #### 🍳 今日食べたもの
+  - 朝：
+  - 昼：
+  - 夜：
+
+  #### 🎧 今日の音楽 / 動画
+  - 🎵 音楽：
+  - 📺 動画：
+
+  #### 📖 本日の読書
+  - 作品名：
+
+  #### 🤖 今日の漫画
+  - 作品名：
+
+  #### 💬 ひとこと雑記
+  - 
+  
+  FRONT_MATTER
 
 # 6. ファイルの書き込み（上書き防止策付き）
 if File.exist?(file_path)
