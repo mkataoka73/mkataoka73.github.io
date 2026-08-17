@@ -8,6 +8,7 @@ title: "Index"
 [Diary](/diary){:.navs}
 [Photos](/photos){:.navs}
 [Favs](/favs){:.navs}
+[Profile](/profile){:.navs}
 
 ### Recent Posts
 
