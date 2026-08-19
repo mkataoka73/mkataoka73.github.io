@@ -2,7 +2,7 @@
 layout: post
 title: "gif-practice"
 date: 2026-08-19 21:37:09 +0900
-published: false
+# published: false
 ---
 
 
