@@ -30,7 +30,10 @@ title: Profile
 ### ✒語学
 {:.thin}
 
-大学で仏文科に進んだためフランス語が多少わかります。使わないのももったいないなと思い今でもたま～に本を買って読むなどすることがあります。最近はオンラインでフランス文学を読む講座を習い始めました。
+大学で仏文科に進んだためフランス語が多少わかります。使わないのももったいないなと思い今でもたま～に本を買って読むなどすることがあります。[最近はオンラインでフランス文学を読む講座を習い始めました]({% link _posts/2026/2026-08-15-online-french.md %})。
+
+
+
 
 ### 💻️プログラミング
 {:.thin}
@@ -45,7 +48,7 @@ title: Profile
 ### 🍶お酒
 {:.thin}
 
-一人でできる趣味として居酒屋、バー通いがここ数年の楽しみになっています。よくいくところは野毛の[LISTEN](https://www.instagram.com/listen_yokohama/)、[百万遍](https://www.instagram.com/hyaku_man_ben/)、西横浜の[N103](https://www.instagram.com/n103yokohama/)、白楽の[数奇者数奇場](https://www.instagram.com/sukimono.sukiba/)があります。おすすめの酒場は[こちら](/music-spots)。
+一人でできる趣味として居酒屋、バー通いがここ数年の楽しみになっています。よくいくところは野毛の[LISTEN](https://www.instagram.com/listen_yokohama/)、[百万遍](https://www.instagram.com/hyaku_man_ben/)、西横浜の[N103](https://www.instagram.com/n103yokohama/)、白楽の[数奇者数奇場](https://www.instagram.com/sukimono.sukiba/)があります。おすすめの酒場は[こちら](/bars)。
 
 
 ### 🕹️ゲーム
